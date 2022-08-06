@@ -1,10 +1,11 @@
 # Jonathan Yin
 
-:wave: Hey! I'm an undergrad at Yale studying Computer Science and Statistics. My interests broadly lie at the intersection of machine learning, data science, and software development. This summer, I'll be interning at [Benchling](https://www.benchling.com/) as a software engineer.
+:wave: Hey! I'm an undergrad at Yale studying Computer Science and Statistics. My interests broadly lie at the intersection of machine learning, data science, and software development.
 
-In the past, I've worked on deep learning for drug discovery at [Octant](https://www.octant.bio/) and frontend engineering at [Beagle Learning](https://en.beaglelearning.com/). I've also researched ML models for molecular representation at the [Broad Institute](https://www.broadinstitute.org/).
+This past summer, I interned at [Benchling](https://www.benchling.com/), building out chemistry support in the Electronic Lab Notebook (ELN) product.
+Previously, I've also worked on deep learning for drug discovery at [Octant](https://www.octant.bio/), researched machine learning models for molecular representation at the [Broad Institute](https://www.broadinstitute.org/), and developed frontend at [Beagle Learning](https://en.beaglelearning.com/).
 
-In my free time, I enjoy flying drones, exercising, and listening to music.
+In my free time, I enjoy flying drones, staying active, and listening to music.
 
 <h4 align="left">Now playing:</h4>
 
